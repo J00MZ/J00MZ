@@ -2,6 +2,6 @@
 ### Hi 👋
 
 My name is Joe.  
-DevOps/SRE Engineer at [**BigPanda**](https://www.bigpanda.io/).
+SRE at [**BigPanda**](https://www.bigpanda.io/).
 
 ![Metrics](https://raw.githubusercontent.com/J00MZ/J00MZ/main/gh-metrics.svg)
