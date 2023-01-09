@@ -34,7 +34,3 @@ jobs:
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 1122101
           plugin_stackoverflow_sections: answers-top
-          plugin_stackoverflow_limit: 2
-          plugin_licenses: yes
-          plugin_languages_skipped: conan-center-index, oh-my-zsh
-          plugin_isocalendar: yes
