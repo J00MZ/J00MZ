@@ -3,6 +3,6 @@
 
 My name is Joe Tavin.  Site Reliability Engineer at [**BigPanda**](https://www.bigpanda.io/).
 
-![Anurag's GitHub stats](github-readme-stats-kvo5zj0om-j00mz.vercel.app/api?username=J00MZ&show_icons=true&count_private=true&theme=aura&hide=contribs)
+![GitHub Stats](https://github-readme-stats-kvo5zj0om-j00mz.vercel.app/api?username=J00MZ&show_icons=true&count_private=true&theme=aura&hide=contribs)
 
 ![Metrics](https://raw.githubusercontent.com/J00MZ/J00MZ/main/gh-metrics.svg)
