@@ -4,7 +4,7 @@
 My name is Joe Tavin.  
 DevOps / SRE / Platform Engineering.
 
-Currently Senior DevOps at [**Seemplicity**](https://www.seemplicity.io/).
+Currently Platform Engineer at [**Seemplicity**](https://www.seemplicity.io/).
 
 ![GitHub Stats](https://github-readme-stats-j00mz.vercel.app/api?username=J00MZ&show_icons=true&count_private=true&theme=aura&hide=contribs)
 
